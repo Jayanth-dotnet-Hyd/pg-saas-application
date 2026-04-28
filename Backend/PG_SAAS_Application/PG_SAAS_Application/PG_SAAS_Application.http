@@ -1,0 +1,6 @@
+@PG_SAAS_Application_HostAddress = http://localhost:5183
+
+GET {{PG_SAAS_Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
